@@ -15,26 +15,23 @@ body{
     font-family: sans-serif;
 
 }
-.header-txt,
-.footer-txt{
-    width: 100%;
-    height: auto;
+.header-txt{
     color: #fff;
     text-align: center;
     font-variant: small-caps;
     font-size: 20px;
     font-family: sans-serif;
+    margin-top: px;
     
 }
 .links{
 
     width: 100%;
     height: auto;
+
 }
 .main-li{
     list-style-type: none;
-    padding: 
-    
 }
 .main-li .bb{
     border: 0.5px solid #950470;
@@ -61,4 +58,13 @@ body{
     padding-top: 147px;
     font-variant: normal;
     font-size: 18px;
+}
+.footer-txt{
+    width: 100%;
+    height: auto;
+    color: #fff;
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 20px;
+    font-family: sans-serif;
 }
